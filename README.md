@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-<!-- See "Banner Concept" in the accompanying notes for the exact design brief.
-     This typing-SVG header is a zero-effort placeholder until you generate the banner. -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Mani%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20AI%2FML%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <!-- ===================== TYPING TAGLINE ===================== -->
@@ -77,25 +75,11 @@ I'm a third-year Computer Science student at **NIT Srinagar** (CGPA 8.85/10), wo
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Manigupta03/job-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manigupta03&repo=job-tracker&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Manigupta03/autism-screening">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manigupta03&repo=autism-screening&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Manigupta03/collab-code-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manigupta03&repo=collab-code-editor&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **[AI Job Application Tracker](https://github.com/Manigupta03/job-tracker)** — [Live](https://job-tracker-five-blond.vercel.app) | Full-stack product thinking, real-time systems, LLM integration | React · Node · MongoDB · Gemini API · Socket.io |
+| **[AI Job Application Tracker](https://github.com/Manigupta03/ai-job-tracker)** — [Live](https://job-tracker-five-blond.vercel.app) | Full-stack product thinking, real-time systems, LLM integration | React · Node · MongoDB · Gemini API · Socket.io |
 | **[Autism Screening ML Pipeline](https://github.com/Manigupta03/autism-screening)** | End-to-end ML rigor: imbalance handling, model comparison, deployment | Python · Scikit-learn · FastAPI · Docker · Streamlit |
-| **[Real-Time Collaborative Code Editor](https://github.com/Manigupta03/collab-code-editor)** — [Live](https://collab-code-editor-psi.vercel.app) | Systems programming, concurrency, multi-user state sync | React · Socket.io · Monaco Editor · Judge0 API |
+| **[Real-Time Collaborative Code Editor](https://github.com/Manigupta03/realtime-code-editor)** — [Live](https://collab-code-editor-psi.vercel.app) | Systems programming, concurrency, multi-user state sync | React · Socket.io · Monaco Editor · Judge0 API |
 
 <br/>
 
@@ -111,18 +95,6 @@ I'm a third-year Computer Science student at **NIT Srinagar** (CGPA 8.85/10), wo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manigupta03&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Manigupta03/Manigupta03/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> Generated automatically by the Snake Action workflow below — commits produce a snake animation eating your contribution graph.
 
 <br/>
 
