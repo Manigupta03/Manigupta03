@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING TAGLINE ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+scale;Turning+ML+models+into+production+APIs;3rd-Year+CSE+%40+NIT+Srinagar;Open+to+SWE+%2F+Backend+%2F+AI-ML+Internships&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=20&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+scale;Turning+ML+models+into+production+APIs;4th-Year+CSE+%40+NIT+Srinagar;Open+to+SWE+%2F+Backend+%2F+AI-ML+Internships&font=Fira+Code&center=true&width=600&height=45&color=38BDF8&vCenter=true&size=20&pause=1200" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,12 +20,12 @@
 
 ## About Me
 
-I'm a third-year Computer Science student at **NIT Srinagar** (CGPA 8.85/10), working across backend engineering and applied machine learning. I most recently built an ERP-based result management system in production during a software development internship, and I ship side projects that go beyond tutorials — real-time systems, AI-integrated tooling, and deployed ML pipelines with actual model evaluation, not just `.fit()` and a demo.
+I'm a fourth-year Computer Science student at **NIT Srinagar** (CGPA 8.82/10), working across backend engineering and applied machine learning. I most recently built an ERP-based result management system in production during a software development internship, and I ship side projects that go beyond tutorials — real-time systems, AI-integrated tooling, and deployed ML pipelines with actual model evaluation, not just `.fit()` and a demo.
 
 - 🔭 Currently building **production-grade backend systems** with role-based access control, transaction-safe data pipelines, and clean API design
 - 🧠 Comfortable across the stack: **React/Node on the frontend, PHP/Node/FastAPI on the backend, MySQL/MongoDB for data**
 - 🤖 Actively applying **ML to real problems** — model comparison, class imbalance handling, and deploying models as APIs rather than notebooks
-- 🎯 Looking for **Software Engineer Intern / Backend Developer / AI-ML Engineer** roles
+- 🎯 Looking for **Software Engineer Intern / Backend Developer ** roles
 - 📫 Reach me at **maniiigupta309@gmail.com**
 
 <br/>
